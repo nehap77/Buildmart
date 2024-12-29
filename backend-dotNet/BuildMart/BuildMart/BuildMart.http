@@ -1,0 +1,6 @@
+@BuildMart_HostAddress = http://localhost:5200
+
+GET {{BuildMart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
